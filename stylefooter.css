@@ -1,0 +1,480 @@
+/* Footer Widgets & Copyright Bar */
+
+.Footer{position: absolute;
+width: 1440px;
+height: 443px;
+left: 0px;
+top: 370px;
+}
+
+.gr1{/* Group 2 */
+position: absolute;
+width: 260px;
+height: 156px;
+left: 140px;
+top: 470px;}
+.Text{/*  */
+
+position: absolute;
+width: 260px;
+height: 96px;
+left: 140px;
+top: 530px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+/* Dark 75% */
+color: rgba(31, 32, 65, 0.75);
+}
+.gr2{/* Group */
+
+position: absolute;
+width: 81px;
+height: 168px;
+left: 440px;
+top: 474px;
+}
+/* Navigation */
+.navigation2{
+position: absolute;
+width: 81px;
+height: 15px;
+left: 440px;
+top: 474px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* Dark 100% */
+color: #1F2041;
+}
+
+/* About Us */
+.about_us2{
+position: absolute;
+width: 64px;
+height: 18px;
+left: 440px;
+top: 510px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+/* News */
+.news2{
+position: absolute;
+width: 39px;
+height: 18px;
+left: 440px;
+top: 548px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+/* Support */
+.support2{
+position: absolute;
+width: 58px;
+height: 18px;
+left: 440px;
+top: 586px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+/* Products */
+.products2{
+position: absolute;
+width: 64px;
+height: 18px;
+left: 440px;
+top: 624px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+/* Group */
+.gr3{position: absolute;
+width: 82px;
+height: 168px;
+left: 640px;
+top: 474px;}
+
+
+
+.about_us3{position: absolute;
+width: 64px;
+height: 15px;
+left: 640px;
+top: 474px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* Dark 100% */
+color: #1F2041;
+
+}
+/* ABOUT US */
+
+
+/* Who we are */
+.who{position: absolute;
+width: 82px;
+height: 18px;
+left: 640px;
+top: 510px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+
+}
+
+/* Our team */
+.our_team{position: absolute;
+width: 66px;
+height: 18px;
+left: 640px;
+top: 548px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+
+/* Careers */
+.careers3{position: absolute;
+width: 53px;
+height: 18px;
+left: 640px;
+top: 586px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+
+/* Investors */
+.investors{position: absolute;
+width: 61px;
+height: 18px;
+left: 640px;
+top: 624px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+/* Group */
+.gr4{position: absolute;
+width: 113px;
+height: 130px;
+left: 840px;
+top: 474px;}
+
+/* Support */
+.support4{position: absolute;
+width: 59px;
+height: 15px;
+left: 840px;
+top: 474px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* Dark 100% */
+color: #1F2041;}
+
+
+
+/* Documentation */
+.documentation4{position: absolute;
+width: 113px;
+height: 18px;
+left: 840px;
+top: 510px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+
+/* Community */
+.community{position: absolute;
+width: 84px;
+height: 18px;
+left: 840px;
+top: 548px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+
+/* Get in Touch */
+.get{position: absolute;
+width: 89px;
+height: 18px;
+left: 840px;
+top: 586px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+    position: absolute;
+width: 89px;
+height: 18px;
+left: 840px;
+top: 586px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+
+}
+/* Group */
+.gr5{position: absolute;
+width: 208px;
+height: 84px;
+left: 1040px;
+top: 474px;}
+
+
+
+
+/* Subscribe to our newsletter */
+.Subscribe{position: absolute;
+width: 208px;
+height: 15px;
+left: 1040px;
+top: 474px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* Dark 100% */
+color: #1F2041;
+}
+
+
+/* Receive our latest news and promotions in your inbox! */
+.Receive{position: absolute;
+width: 196px;
+height: 48px;
+left: 1040px;
+top: 510px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+/* Dark 75% */
+color: rgba(31, 32, 65, 0.75);
+}
+/* Copyright Bar */
+
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 743px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 743px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+
+
+/*  */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1188px;
+top: 766px;
+
+font-family: Font Awesome 5 Brands;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 23px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary Gradient */
+color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+
+
+/*  */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1232px;
+top: 766px;
+
+font-family: Font Awesome 5 Brands;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 23px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary Gradient */
+color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+
+
+/*  */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1276px;
+top: 766px;
+
+font-family: Font Awesome 5 Brands;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 23px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary Gradient */
+color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+
+
+/* Copyright © 2018 Toxin UI Kit. All rights reserved. */
+
+position: absolute;
+width: 332px;
+height: 18px;
+left: 140px;
+top: 769px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 75% */
+color: rgba(31, 32, 65, 0.75);
+
+
+
