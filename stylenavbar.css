@@ -1,12 +1,17 @@
+body
+{
+position: relative;
+width: 1440px;
+height: 1350px;
+
+background: #F4F4F6;}
 /* Standard Nav Bar12 */
 .nav1{
 position: absolute;
 width: 1440px;
 height: 70px;
 left: 0px;
-top: 150px;
-list-style: none;
-    
+top: 150px;   
 }
 /* Rectangle */
 .Rectangle{

@@ -372,18 +372,17 @@ line-height: 24px;
 color: rgba(31, 32, 65, 0.75);
 }
 /* Copyright Bar */
-
-position: absolute;
+.gr6{position: absolute;
 width: 1440px;
 height: 70px;
 left: 0px;
-top: 743px;
+top: 743px;}
+
 
 
 
 /* Rectangle */
-
-position: absolute;
+.recrangle{position: absolute;
 width: 1440px;
 height: 70px;
 left: 0px;
@@ -391,11 +390,11 @@ top: 743px;
 
 background: #FFFFFF;
 box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+}
 
 
 /*  */
-
-position: absolute;
+.twitter{position: absolute;
 width: 24px;
 height: 24px;
 left: 1188px;
@@ -412,12 +411,12 @@ align-items: center;
 text-align: center;
 
 /* Primary Gradient */
-color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);}
+
 
 
 /*  */
-
-position: absolute;
+.facebook{position: absolute;
 width: 24px;
 height: 24px;
 left: 1232px;
@@ -434,12 +433,12 @@ align-items: center;
 text-align: center;
 
 /* Primary Gradient */
-color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);}
+
 
 
 /*  */
-
-position: absolute;
+.instagram{position: absolute;
 width: 24px;
 height: 24px;
 left: 1276px;
@@ -456,12 +455,12 @@ align-items: center;
 text-align: center;
 
 /* Primary Gradient */
-color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+color: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);}
+
 
 
 /* Copyright © 2018 Toxin UI Kit. All rights reserved. */
-
-position: absolute;
+.Copyright{position: absolute;
 width: 332px;
 height: 18px;
 left: 140px;
@@ -474,7 +473,8 @@ font-size: 14px;
 line-height: 17px;
 
 /* Dark 75% */
-color: rgba(31, 32, 65, 0.75);
+color: rgba(31, 32, 65, 0.75);}
+
 
 
 
