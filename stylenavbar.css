@@ -4,7 +4,8 @@ position: relative;
 width: 1440px;
 height: 1350px;
 
-background: #F4F4F6;}
+background: #F4F4F6;
+}
 /* Standard Nav Bar12 */
 .nav1{
 position: absolute;
@@ -191,3 +192,8 @@ top: 178.33px;
 /* Dark 100% */
 background: #1F2041;
 }
+.grnav{position: absolute;
+width: 527px;
+height: 21px;
+left: 543px;
+top: 176px;}
