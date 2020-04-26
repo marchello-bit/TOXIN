@@ -3,13 +3,14 @@
 width: 1440px;
 height: 367px;
 left: 0px;
-top: 853px;}
+top: 853px;
+}
 
 
 
 
 /* Rectangle */
-.rectange7{position: absolute;
+.Rectange7{position: absolute;
 width: 1440px;
 height: 367px;
 left: 0px;
@@ -51,9 +52,11 @@ font-weight: normal;
 font-size: 14px;
 line-height: 24px;
 /* or 171% */
+
 text-align: center;
 
 /* Dark 75% */
+
 color: rgba(31, 32, 65, 0.75);
 }
 
@@ -64,7 +67,65 @@ width: 105.69px;
 height: 40px;
 left: 667px;
 top: 953px;}
+/*  */
+.twitterc{position: absolute;
+width: 24px;
+height: 24px;
+left: 664px;
+top: 1086px;
 
+font-family: Font Awesome 5 Brands;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 23px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+}
+
+
+
+/*  */
+.facebookc{position: absolute;
+width: 24px;
+height: 24px;
+left: 708px;
+top: 1086px;
+
+font-family: Font Awesome 5 Brands;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 23px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;}
+
+
+
+/*  */
+.instagramc{position: absolute;
+width: 24px;
+height: 24px;
+left: 752px;
+top: 1086px;
+
+font-family: Font Awesome 5 Brands;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 23px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+}
 
 
 
