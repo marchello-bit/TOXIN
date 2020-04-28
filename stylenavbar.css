@@ -161,6 +161,26 @@ text-transform: uppercase;
 /* Primary Color */
 
 color: #BC9CFF;}
+.loginp{position: absolute;
+width: 79px;
+height: 34px;
+left: 1100px;
+top: 168px;}
+.logrectage{position: absolute;
+width: 79px;
+height: 34px;
+left: 1100px;
+top: 168px;
+
+    border-radius: 22px;}
+.registerp{
+ position: absolute;
+width: 101px;
+height: 34px;
+left: 1199px;
+top: 168px;
+   
+}
 .REGISTER
 {/* REGISTER */
 
