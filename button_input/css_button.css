@@ -1,0 +1,137 @@
+.boxinput{
+    position: absolute;
+width: 380px;
+height: 358px;
+left: 560px;
+top: 701px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.12);
+box-sizing: border-box;
+box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.2);
+border-radius: 4px;
+}
+.textInput{
+width: 320px;
+height: 30px;
+left: 590px;
+top: 741px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+/* Dark 100% */
+
+color: #1F2041;}
+input[type=email]{
+width: 320px;
+height: 44px;
+left: 590px;
+top: 791px;
+
+background: #FFFFFF;
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 4px;
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+/* Dark 25% */
+
+color: rgba(31, 32, 65, 0.25);
+}
+input[type=text]{
+width: 320px;
+height: 44px;
+left: 590px;
+top: 845px;
+
+background: #FFFFFF;
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 4px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+/* Dark 25% */
+
+color: rgba(31, 32, 65, 0.25);}
+.inputButton{
+width: 320px;
+height: 44px;
+left: 590px;
+top: 909px;
+
+/* Primary Gradient */
+
+background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+border-radius: 22px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;  
+}
+/* Нет аккаунта на Toxin? */
+
+.no{
+width: 164px;
+height: 18px;
+left: 590px;
+top: 995px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.madeButton{
+
+width: 99px;
+height: 44px;
+left: 811px;
+top: 983px;
+
+border-radius: 22px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+/* Primary Color */
+
+color: #BC9CFF;
+}

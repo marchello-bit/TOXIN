@@ -2,22 +2,20 @@
   <head>
     <meta charset="utf-8">
     <title>TOXIN</title>
+     <link rel="stylesheet" href="css_button.css">
   </head>
   <body>
-       <main>
+       <main class="boxinput">
+    <div class="textInput">Войти</div>
       <form >
-          <h1>Войти</h1>
-        <div>
-        <input type="email" id="email" name="email" placeholder="Email" required autocomplete="on"><br>
-          </div>
-          <div>
-        <input type="text" id="password" name="password" placeholder="Пароль" required autocomplete="on">
-        </div>
-        <div class="buttons">
-          <input type="submit" value="Войти">
+        <input type="email" id="email" name="email" placeholder="Email" required autocomplete="on"><br> 
+        <input type="text" id="password" name="password" placeholder="Пароль" required autocomplete="on"><br>
+          <input type="submit" class="inputButton" name="submit" value="Войти">
           <!-- Кнопка сброса -->
-        </div>
       </form>
+           <div class="no">Нет аккаунта на Toxin? </div>
+           <button class="madeButton">Создать</button>
+    
     </main>
     </body>
 </html>
