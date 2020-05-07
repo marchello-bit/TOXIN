@@ -1,44 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+header{
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);    
+}
 body
 {
 position: relative;
 width: 1440px;
-height: 1350px;
-
-background: #F4F4F6;
+height: 1937px;
 }
-/* Standard Nav Bar12 */
-.nav1{
-position: absolute;
-width: 1440px;
-height: 70px;
-left: 0px;
-top: 150px;   
-}
-/* Rectangle */
-.Rectangle{
-position: absolute;
-width: 1440px;
-height: 70px;
-left: 0px;
-top: 150px;
-background: #FFFFFF;
-box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
-    list-style: none;
-}
-/* Home */
+.v1h1{position: absolute;
+width: 40px;
+height: 40px;
+left: 140px;
+top: 15px;
 
-.HOME{
-    
-    list-style: none;
-position: absolute;
-width: 43px;
-height: 18px;
-left: 543px;
-top: 176px;
+/* Primary Gradient */
 
+}
+.v2h2{position: absolute;
+width: 9.12px;
+height: 5.91px;
+left: 161.47px;
+top: 30.29px;
+
+/* Secondary Gradient */
+}
+.v3h3{
+position: absolute;
+width: 11.76px;
+height: 11.76px;
+left: 149.41px;
+top: 30.29px;
+
+/* Primary Gradient */
+}
+.TOXINh{
+position: absolute;
+width: 53.19px;
+height: 12.95px;
+left: 192.5px;
+top: 28.33px;
+
+/* Dark 100% */
+
+background: #1F2041;
+    }
+/* Primary Gradient */
+
+.menu a{
+text-decoration:none;    
+position: absolute; 
 font-family: Montserrat;
 font-style: normal;
-font-weight: bold;
+font-weight: normal;
 font-size: 14px;
 line-height: 17px;
 
@@ -46,133 +67,51 @@ line-height: 17px;
 
 color: rgba(31, 32, 65, 0.75);
 }
-/* About Us */
-
-.about_us{
-    list-style: none;
-position: absolute;
-width: 64px;
+.about_us{  
+width: 42px;
 height: 18px;
-left: 616px;
-top: 176px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 17px;
-
-/* Dark 50% */
-
-color: rgba(31, 32, 65, 0.5);
+left: 531px;
+top: 26px;
 }
 /* Services */
 .Services{
-    list-style: none;
-position: absolute;
-width: 56px;
+width: 50px;
 height: 18px;
-left: 710px;
-top: 176px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 17px;
-
-/* Dark 50% */
-
-color: rgba(31, 32, 65, 0.5);
+left: 593px;
+top: 26px;
 }
 /* Careers */
-
 .Careers{
-    list-style: none;
-position: absolute;
-width: 52px;
+width: 72px;
 height: 18px;
-left: 810px;
-top: 176px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 17px;
-
-/* Dark 50% */
-
-color: rgba(31, 32, 65, 0.5);
+left: 687px;
+top: 26px;
 }
 /* News */
-
 .News{
-    list-style: none;
-position: absolute;
-width: 38px;
+width: 62px;
 height: 18px;
-left: 892px;
-top: 176px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 17px;
-
-/* Dark 50% */
-
-color: rgba(31, 32, 65, 0.5);
+left: 779px;
+top: 26px;
     }
 /* Documentation */
-
 .Documentation{
-    list-style: none;
-position: absolute;
-width: 110px;
+width: 92px;
 height: 18px;
-left: 960px;
-top: 176px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 17px;
-
-/* Dark 50% */
-
-color: rgba(31, 32, 65, 0.5);
+left: 861px;
+top: 26px;
 }
-.Login
-{/* Login */
 
+.loginp{
 
 position: absolute;
-width: 39px;
-height: 15px;
-left: 1120px;
-top: 177px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: bold;
-font-size: 12px;
-line-height: 15px;
-/* identical to box height */
-
-text-transform: uppercase;
-
-/* Primary Color */
-
-color: #BC9CFF;}
-.loginp{position: absolute;
-width: 79px;
+width: 87px;
 height: 34px;
-left: 1100px;
-top: 168px;
+left: 997px;
+top: 18px;
+
 border-radius: 22px;
+
 font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
@@ -186,25 +125,17 @@ text-transform: uppercase;
 
 color: #BC9CFF;}
 
-.logrectage{position: absolute;
-width: 79px;
-height: 34px;
-left: 1100px;
-top: 168px;
 
-    border-radius: 22px;}
 .registerp{
- position: absolute;
-width: 101px;
+ 
+
+position: absolute;
+width: 196px;
 height: 34px;
-left: 1199px;
-top: 168px;
+left: 1104px;
+top: 18px;
 
-/* Primary Gradient */
-
-background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
-border-radius: 22px;
-    font-family: Montserrat;
+font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
 font-size: 12px;
@@ -214,6 +145,10 @@ line-height: 15px;
 text-transform: uppercase;
 
 color: #FFFFFF;
+    /* Primary Gradient */
+
+background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+border-radius: 22px;
    
 }
 .REGISTER

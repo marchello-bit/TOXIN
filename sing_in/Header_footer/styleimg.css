@@ -1,3 +1,4 @@
+/@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 /* Group */
 .imggr{
 position: absolute;
@@ -63,74 +64,7 @@ height: 11.76px;
 left: 149.41px;
 top: 290.29px;
 }
-.v1h1{position: absolute;
-width: 40px;
-height: 40px;
-left: 140px;
-top: 165px;
 
-/* Primary Gradient */
-
-}
-.v2h2{position: absolute;
-width: 9.12px;
-height: 5.91px;
-left: 161.47px;
-top: 180.29px;
-/* Secondary Gradient */
-
-}
-.v3h3{position: absolute;
-width: 11.76px;
-height: 11.76px;
-left: 149.41px;
-top: 180.29px;
-}
-.TOXINh{
-position: absolute;
-width: 53.19px;
-height: 12.95px;
-left: 192.5px;
-top: 288.33px;
-    }
-/* Primary Gradient */
-
-.TOXIN{position: absolute;
-width: 53.19px;
-height: 12.95px;
-left: 192.5px;
-top: 178.33px;
-}
-.v1f1{position: absolute;
-width: 40px;
-height: 40px;
-left: 140px;
-top: 470px;
-
-/* Primary Gradient */
-
-}
-.v2f2{position: absolute;
-width: 9.12px;
-height: 5.91px;
-left: 161.47px;
-top: 485.29px;
-
-}
-.v3f3{position: absolute;
-width: 11.76px;
-height: 11.76px;
-left: 149.41px;
-top: 485.29px;
-
-}
-.TOXINf{
-position: absolute;
-width: 53.19px;
-height: 12.95px;
-left: 192.5px;
-top: 483.33px;
-}
 .v1fc1{position: absolute;
 width: 40px;
 height: 40px;

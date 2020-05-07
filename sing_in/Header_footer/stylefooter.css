@@ -1,12 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
 /* Footer Widgets & Copyright Bar */
 
 footer{position: absolute;
 width: 1440px;
 height: 443px;
 left: 0px;
-top: 370px;
+top: 754px;
 }
+.widgets{
+position: absolute;
+width: 1440px;
+height: 372px;
+left: 0px;
+top: 754px;
 
+background: #FFFFFF;
+box-shadow: 0px 1px 0px rgba(31, 32, 65, 0.1);
+}
+.v1f1{position: absolute;
+width: 40px;
+height: 40px;
+left: 140px;
+top: 854px;
+/* Primary Gradient */
+
+}
+.v2f2{position: absolute;
+width: 9.12px;
+height: 5.91px;
+left: 161.47px;
+top: 869.29px;
+
+
+}
+.v3f3{position: absolute;
+width: 11.76px;
+height: 11.76px;
+left: 149.41px;
+top: 869.29px;
+}
+.TOXINf{
+
+position: absolute;
+width: 53.19px;
+height: 12.95px;
+left: 192.5px;
+top: 867.33px;
+
+
+}
 .gr1{/* Group 2 */
 position: absolute;
 width: 260px;
