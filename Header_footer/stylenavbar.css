@@ -1,0 +1,219 @@
+body
+{
+position: relative;
+width: 1440px;
+height: 1350px;
+
+background: #F4F4F6;
+}
+/* Standard Nav Bar12 */
+.nav1{
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 150px;   
+}
+/* Rectangle */
+.Rectangle{
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 150px;
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+    list-style: none;
+}
+/* Home */
+
+.HOME{
+    list-style: none;
+position: absolute;
+width: 43px;
+height: 18px;
+left: 543px;
+top: 176px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 75% */
+
+color: rgba(31, 32, 65, 0.75);
+}
+/* About Us */
+
+.about_us{
+position: absolute;
+width: 64px;
+height: 18px;
+left: 616px;
+top: 176px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+
+color: rgba(31, 32, 65, 0.5);
+}
+/* Services */
+.Services{
+position: absolute;
+width: 56px;
+height: 18px;
+left: 710px;
+top: 176px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+
+color: rgba(31, 32, 65, 0.5);
+}
+/* Careers */
+
+.Careers{
+position: absolute;
+width: 52px;
+height: 18px;
+left: 810px;
+top: 176px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+
+color: rgba(31, 32, 65, 0.5);
+}
+/* News */
+
+.News{
+position: absolute;
+width: 38px;
+height: 18px;
+left: 892px;
+top: 176px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+
+color: rgba(31, 32, 65, 0.5);
+    }
+/* Documentation */
+
+.Documentation{
+position: absolute;
+width: 110px;
+height: 18px;
+left: 960px;
+top: 176px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+
+color: rgba(31, 32, 65, 0.5);
+}
+.Login
+{/* Login */
+
+
+position: absolute;
+width: 39px;
+height: 15px;
+left: 1120px;
+top: 177px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+/* Primary Color */
+
+color: #BC9CFF;}
+.loginp{position: absolute;
+width: 79px;
+height: 34px;
+left: 1100px;
+top: 168px;}
+.logrectage{position: absolute;
+width: 79px;
+height: 34px;
+left: 1100px;
+top: 168px;
+
+    border-radius: 22px;}
+.registerp{
+ position: absolute;
+width: 101px;
+height: 34px;
+left: 1199px;
+top: 168px;
+   
+}
+.REGISTER
+{/* REGISTER */
+
+
+position: absolute;
+width: 62px;
+height: 15px;
+left: 1218px;
+top: 177px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;}
+/* TOXIN */
+.TOXIN{
+position: absolute;
+width: 53.19px;
+height: 12.95px;
+left: 192.5px;
+top: 178.33px;
+
+/* Dark 100% */
+background: #1F2041;
+}
+.grnav{position: absolute;
+width: 527px;
+height: 21px;
+left: 543px;
+top: 176px;}

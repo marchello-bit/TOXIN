@@ -1,0 +1,184 @@
+/* Group */
+.imggr{
+position: absolute;
+width: 48px;
+height: 48px;
+left: 30px;
+top: 30px;
+
+}
+.v1{position: absolute;
+width: 48px;
+height: 48px;
+left: 30px;
+top: 30px;
+
+/* Dark 25% */
+}
+.v2{position: absolute;
+width: 10.94px;
+height: 7.09px;
+left: 55.77px;
+top: 48.35px;
+
+
+/* Dark 25% */
+}
+.v3{position: absolute;
+width: 14.12px;
+height: 14.12px;
+left: 41.29px;
+top: 48.35px;
+/* Dark 25% */
+}
+/* Group */
+.imghead{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 140px;
+top: 275px;
+}
+.v1h{position: absolute;
+width: 40px;
+height: 40px;
+left: 140px;
+top: 275px;
+
+/* Primary Gradient */
+
+}
+.v2h{position: absolute;
+width: 9.12px;
+height: 5.91px;
+left: 161.47px;
+top: 290.29px;
+
+/* Secondary Gradient */
+
+}
+.v3h{position: absolute;
+width: 11.76px;
+height: 11.76px;
+left: 149.41px;
+top: 290.29px;
+}
+.v1h1{position: absolute;
+width: 40px;
+height: 40px;
+left: 140px;
+top: 165px;
+
+/* Primary Gradient */
+
+}
+.v2h2{position: absolute;
+width: 9.12px;
+height: 5.91px;
+left: 161.47px;
+top: 180.29px;
+/* Secondary Gradient */
+
+}
+.v3h3{position: absolute;
+width: 11.76px;
+height: 11.76px;
+left: 149.41px;
+top: 180.29px;
+}
+.TOXINh{
+position: absolute;
+width: 53.19px;
+height: 12.95px;
+left: 192.5px;
+top: 288.33px;
+    }
+/* Primary Gradient */
+
+.TOXIN{position: absolute;
+width: 53.19px;
+height: 12.95px;
+left: 192.5px;
+top: 178.33px;
+}
+.v1f1{position: absolute;
+width: 40px;
+height: 40px;
+left: 140px;
+top: 470px;
+
+/* Primary Gradient */
+
+}
+.v2f2{position: absolute;
+width: 9.12px;
+height: 5.91px;
+left: 161.47px;
+top: 485.29px;
+
+}
+.v3f3{position: absolute;
+width: 11.76px;
+height: 11.76px;
+left: 149.41px;
+top: 485.29px;
+
+}
+.TOXINf{
+position: absolute;
+width: 53.19px;
+height: 12.95px;
+left: 192.5px;
+top: 483.33px;
+}
+.v1fc1{position: absolute;
+width: 40px;
+height: 40px;
+left: 667px;
+top: 953px;
+/* Primary Gradient */
+
+}
+.v2fc2{position: absolute;
+width: 9.12px;
+height: 5.91px;
+left: 688.47px;
+top: 968.29px;
+
+}
+.v3fc3{position: absolute;
+width: 11.76px;
+height: 11.76px;
+left: 676.41px;
+top: 968.29px;
+
+
+}
+.TOXINfc{
+position: absolute;
+width: 53.19px;
+height: 12.95px;
+left: 719.5px;
+top: 966.33px;
+
+}
+/* Primary Gradient */
+
+.TOXIN{position: absolute;
+width: 53.19px;
+height: 12.95px;
+left: 192.5px;
+top: 178.33px;
+}
+.logo{position: absolute;
+width: 105.69px;
+height: 40px;
+left: 140px;
+top: 165px;}
+.logo1
+    {
+position: absolute;
+width: 105.69px;
+height: 40px;
+left: 140px;
+top: 470px;}

@@ -1,0 +1,146 @@
+/* Rectangle */
+.Rectangle1{
+    
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 260px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+}
+/* Home */
+.Home1{
+    list-style: none;
+position: absolute;
+width: 45px;
+height: 18px;
+left: 595px;
+top: 285px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 75% */
+color: rgba(31, 32, 65, 0.75);
+}
+/* About Us */
+.About_us1{
+    list-style: none;
+position: absolute;
+width: 66px;
+height: 18px;
+left: 668px;
+top: 285px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+.Services1{/* Services */
+list-style: none;
+position: absolute;
+width: 58px;
+height: 18px;
+left: 762px;
+top: 285px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+
+.Careers1{/* Careers */
+list-style: none;
+position: absolute;
+width: 53px;
+height: 18px;
+left: 862px;
+top: 285px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+.News1{/* News */
+list-style: none;
+position: absolute;
+width: 39px;
+height: 18px;
+left: 944px;
+top: 285px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+.Documentation1{/* Documentation */
+list-style: none;
+position: absolute;
+width: 113px;
+height: 18px;
+left: 1012px;
+top: 285px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+.Cosmin_Negoita{/* Cosmin Negoita */
+list-style: none;
+position: absolute;
+width: 114px;
+height: 18px;
+left: 1186px;
+top: 286px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Dark 50% */
+color: rgba(31, 32, 65, 0.5);
+}
+.Group2{position: absolute;
+width: 530px;
+height: 21px;
+left: 595px;
+top: 285px;}
+.User{/* User */
+position: absolute;
+width: 114px;
+height: 18px;
+left: 1186px;
+top: 286px;}
